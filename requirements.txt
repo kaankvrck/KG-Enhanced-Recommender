@@ -1,0 +1,10 @@
+pandas==2.0.0
+py2neo==2021.2.4
+scikit-learn==1.2.2
+pyspark==3.4.0
+jupyter==1.0.0
+pyarrow==4.0.0
+numpy==1.20.3
+py4j==0.10.9.7
+grpcio==1.48.1
+grpcio-status==1.48.1
